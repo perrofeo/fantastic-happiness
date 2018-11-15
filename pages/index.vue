@@ -9,7 +9,7 @@
       <div>
          <b-embed type="iframe"
                   aspect="16by9"
-                  src="https://www.youtube.com/embed/videoseries?list=PLsE_GqJ3pZQ0yJcjPEMExFcyUVxesFHek&loop=1&color=white&controls=0" 
+                  src="https://www.youtube.com/embed/videoseries?list=PLsE_GqJ3pZQ0yJcjPEMExFcyUVxesFHek&loop=1&color=white&controls=1" 
                   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
                   allowfullscreen>
          </b-embed>
