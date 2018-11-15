@@ -1,12 +1,11 @@
 <template>
   <section class="container">
-    <div>
+    <div class="portada">
       <logo/>
       <h2 class="subtitle">
         Productos de lona publicitaria reutilizada
       </h2>
-
-      <div>
+      <div class="video-portada">
          <b-embed type="iframe"
                   aspect="16by9"
                   src="https://www.youtube.com/embed/videoseries?list=PLsE_GqJ3pZQ0yJcjPEMExFcyUVxesFHek&loop=1&color=white&controls=1" 
@@ -47,7 +46,7 @@ export default {
   min-height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   text-align: center;
 }
 
@@ -69,6 +68,15 @@ export default {
   word-spacing: 5px;
   padding-bottom: 30px;
   padding-top: 30px
+}
+
+.portada{
+    padding-top: 50px;
+    width: 100%;
+}
+.video-portada{
+  max-width: 600px;
+  margin: auto;
 }
 
 .links {
