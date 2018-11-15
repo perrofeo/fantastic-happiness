@@ -7,6 +7,9 @@
       </h2>
       <div class="video-portada">
          <b-embed type="iframe"
+                  width="560"
+                  height="315"
+                  poster="@/assets/poster.jpg"
                   aspect="16by9"
                   src="https://www.youtube.com/embed/videoseries?list=PLsE_GqJ3pZQ0yJcjPEMExFcyUVxesFHek&loop=1&color=white&controls=1" 
                   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
