@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://musing-hawking-9601a9.netlify.com/* https://www.sastradesign.com/:splat 301!
