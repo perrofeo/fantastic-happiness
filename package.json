@@ -15,7 +15,7 @@
     "bootstrap-vue": "^2.0.0-beta",
     "cross-env": "^5.2.0",
     "event-stream": "^3.3.4",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
